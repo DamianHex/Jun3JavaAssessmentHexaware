@@ -1,4 +1,4 @@
-package org.hexaware;
+package org.example;
 
 import static org.junit.Assert.assertTrue;
 
